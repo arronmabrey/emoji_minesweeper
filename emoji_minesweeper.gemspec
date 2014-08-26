@@ -6,10 +6,10 @@ require 'emoji_minesweeper/version'
 Gem::Specification.new do |spec|
   spec.name          = "emoji_minesweeper"
   spec.version       = EmojiMinesweeper::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["Arron Mabrey Tony Winn"]
+  spec.email         = ["arron+tony+pair@tonywinn.me"]
+  spec.summary       = %q{A minesweeper game that uses utf-8 emoji for all the things...}
+  spec.description   = %q{A minesweeper game that uses utf-8 emoji for all the things...}
   spec.homepage      = ""
   spec.license       = "MIT"
 
